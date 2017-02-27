@@ -101,7 +101,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ff0000', e
 	padding: 0 30px;
 }
 section { /*Correccion de sobreposicion del header*/
-	padding: 75px 0;
+	padding: 30px 0;
 }
 a:link { /*Quita el formato de impervinculo*/
     text-decoration: none;
