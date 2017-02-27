@@ -144,6 +144,13 @@ img{ /*Agregar espacion entre las imagenes (margen superior)*/
   width: 75%; height: 80%;
 }
 
+.panel{
+  background-color: transparent;
+}
+.row{
+  padding-bottom: 10px;
+}
+
 /*Iconos*/
 
 @font-face {
