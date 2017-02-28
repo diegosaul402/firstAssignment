@@ -37,12 +37,12 @@ header .Title { /*Formatos para los textos*/
 	float:left;
   color: #24566E;
 }
-header .nav { /*Mover menu a la derecha*/
-	float:right;
+/*header .nav { /*Mover menu a la derecha*/
+/*	float:right;
 	line-height:100px;
 }
 header .nav a {/*Creacion del estili del menu*/
-	display:inline-block;
+/*	display:inline-block;
 	text-decoration:none;
 	padding:10px 20px;
 	line-height:normal;
@@ -53,11 +53,14 @@ header .nav a {/*Creacion del estili del menu*/
 	transition:all 500ms ease;
 }
 header .nav a:hover { /*Animacion al poner sobre el menu*/
-	background:rgba(55, 109, 232, 0.5);
+/*	background:rgba(55, 109, 232, 0.5);
 	border-radius:50px;
   color: white;
-}
+}*/
 
+.navbar-brand {
+  font-size: 30px;
+}
 footer { /*Formato para pie de pagina*/
     color: white;
     right: 0;
@@ -84,7 +87,7 @@ background: linear-gradient(left, rgba(255,0,0,0) 0%,rgba(255,0,0,0) 15%,rgba(25
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ff0000', endColorstr='#00ff0000',GradientType=1 ); /* IE6-9 */
 }
 .wrapper { /*Formato para el contenido de la paguina*/
-	width:90%;
+	width:95%;
 	max-width:1000px;
 	margin:auto;
 	overflow:hidden;
